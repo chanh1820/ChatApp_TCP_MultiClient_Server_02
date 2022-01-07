@@ -16,6 +16,8 @@
         android:paddingLeft="10dp"
         android:paddingRight="10dp"
         android:paddingTop="5dp"
+        android:textSize="18sp"
+        android:maxWidth="320dp"
         android:text="Sample"
-        android:textColor="#000" />
+        android:textColor="#FFF9FF" />
 </LinearLayout>
